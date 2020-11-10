@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sherinemathew/Movie-Db-Deploy/static/css/main.5278d3e8.chunk.css",
+    "main.js": "/sherinemathew/Movie-Db-Deploy/static/js/main.b2e497cb.chunk.js",
+    "main.js.map": "/sherinemathew/Movie-Db-Deploy/static/js/main.b2e497cb.chunk.js.map",
+    "runtime-main.js": "/sherinemathew/Movie-Db-Deploy/static/js/runtime-main.9fe08666.js",
+    "runtime-main.js.map": "/sherinemathew/Movie-Db-Deploy/static/js/runtime-main.9fe08666.js.map",
+    "static/css/2.a10ec74d.chunk.css": "/sherinemathew/Movie-Db-Deploy/static/css/2.a10ec74d.chunk.css",
+    "static/js/2.9fa96c9d.chunk.js": "/sherinemathew/Movie-Db-Deploy/static/js/2.9fa96c9d.chunk.js",
+    "static/js/2.9fa96c9d.chunk.js.map": "/sherinemathew/Movie-Db-Deploy/static/js/2.9fa96c9d.chunk.js.map",
+    "index.html": "/sherinemathew/Movie-Db-Deploy/index.html",
+    "static/css/2.a10ec74d.chunk.css.map": "/sherinemathew/Movie-Db-Deploy/static/css/2.a10ec74d.chunk.css.map",
+    "static/css/main.5278d3e8.chunk.css.map": "/sherinemathew/Movie-Db-Deploy/static/css/main.5278d3e8.chunk.css.map",
+    "static/js/2.9fa96c9d.chunk.js.LICENSE.txt": "/sherinemathew/Movie-Db-Deploy/static/js/2.9fa96c9d.chunk.js.LICENSE.txt",
+    "static/media/theMovieDbLogo.da3f379f.svg": "/sherinemathew/Movie-Db-Deploy/static/media/theMovieDbLogo.da3f379f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe08666.js",
+    "static/css/2.a10ec74d.chunk.css",
+    "static/js/2.9fa96c9d.chunk.js",
+    "static/css/main.5278d3e8.chunk.css",
+    "static/js/main.b2e497cb.chunk.js"
+  ]
+}
